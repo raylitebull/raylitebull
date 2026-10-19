@@ -22,7 +22,7 @@ What started as a nutrition tracker has grown into a larger system spanning mobi
 - **Local-first architecture:** Kotlin, Jetpack Compose, Room/SQLite, and reactive StateFlows. Core tracking works entirely offline, with optional cloud synchronization.
 - **Nutrition tracking:** Food databases, natural-language logging, body composition history, adaptive targets, and a native Compose UI with custom animations and 3D visualizations.
 - **Phase Coach:** Integrated AI assistant with access to nutrition history, progress metrics, and application tools.
-- **Agent infrastructure:** Ktor-based MCP server and REST API, plus a standalone `mp` CLI for food logging, weight tracking, trend inspection, and external agent workflows.
+- **Agent infrastructure:** MCP server and REST API, plus a standalone `mp` CLI for food logging, weight tracking, trend inspection, and external agent workflows.
 - **Phase Tasks:** Scheduled reminders and AI-generated nutrition reviews, configurable from the app, web, or connected agents.
 
 ### 🧪 MacroBench
